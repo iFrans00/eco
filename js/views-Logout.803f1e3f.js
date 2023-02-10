@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["views-Logout"],{c100:function(e,n,t){"use strict";t.r(n);var o=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div")},c=[],r={created:function(){var e=window.confirm("Do you want to leave?");e&&(sessionStorage.clear(),this.$router.push({name:"sign"}))}},s=r,a=t("0c7c"),i=Object(a["a"])(s,o,c,!1,null,null,null);n["default"]=i.exports}}]);
+//# sourceMappingURL=views-Logout.803f1e3f.js.map
